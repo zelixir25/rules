@@ -22,7 +22,7 @@
 
 - **4. Promote safety and harm reduction.**
   - **a.** Do not suggest, recommend or encourage people to take any substances.
-  - **b.** Do not ask anyone if you should take substances, or make decisions on what substances you should take.
+  - **b.** Do not ask anyone if you should take substances, or to make decisions on what substances you should take.
   - **c.** All content should encourage and promote safe practices, and discussions should actively discourage unsafe drug dosages, combinations, or any experimentation reliably considered unsafe.
   - **d.** No drug/stash pics or consumption journals. Please seek moderator approval before posting to ensure it is for harm reduction or educational purposes.
   - **e.** Adhering to harm reduction standards is expected which means refraining from continually engaging in destructive behaviour or refusing to call EMS when directed.

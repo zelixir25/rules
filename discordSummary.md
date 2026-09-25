@@ -7,10 +7,9 @@
   - **a.** You must be eighteen or older to connect to TripSit or use our services.
 
 - **2. Keep this a respectful, positive and enjoyable space for everyone.**
-
-  - **a.** Avoid posting with the intent of causing disruption, such as flashing imagery or spam.
-  - **b.** No pornography, gore, depictions of acts of violence, gratuitous sexual discussion, or other explicit content. This includes photos/videos of firearms.
-  - **c.** If your post is not against the rules but also may contain sensitive or questionable content, use a spoiler tag (\|| spooky scary skeletons||) and give a warning of what is behind it.
+  - **a.** If your post is not against the rules but also may contain sensitive or questionable content, use a spoiler tag (\|| spooky scary skeletons||) and give a warning of what is behind it.
+  - **b.** Avoid posting with the intent of causing disruption, such as flashing imagery or spam.
+  - **c.** No pornography, gore, depictions of acts of violence, gratuitous sexual discussion, or other explicit content. This includes photos/videos of firearms.
   - **d.** Your profile and display name should be appropriate, free of offensive content, and respectful, avoiding anything that could cause anxiety in others, such as impersonating law enforcement or dictators.
   - **e.** Ensure your content does not victimize, harass, degrade, or intimidate an individual or group based on race, ethnicity, religion, sexual orientation, gender identification, drug of choice, level of addiction, mental health status, or other reasons.
   - **f.** Keep explicit and drug related content only within designated areas.
